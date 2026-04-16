@@ -4,7 +4,7 @@ A multi-threaded port scanner built in Python with basic service detection.
 
 ---
 
-## 🚀 Features
+##   Features
 
 * Scan custom port ranges
 * Multi-threaded for fast scanning
@@ -14,7 +14,7 @@ A multi-threaded port scanner built in Python with basic service detection.
 
 ---
 
-## 🛠️ How to Run
+##   How to Run
 
 ```bash
 python scanner.py
@@ -22,7 +22,7 @@ python scanner.py
 
 ---
 
-## 🧪 Example Output
+##   Example Output
 
 ```
 [+] Scanning localhost from port 1 to 1000...
@@ -36,7 +36,7 @@ Scan finished
 
 ---
 
-## 🧠 What I Learned
+##   What I Learned
 
 * Python socket programming
 * Multi-threading for performance
@@ -45,14 +45,14 @@ Scan finished
 
 ---
 
-## ⚠️ Disclaimer
+##   Disclaimer
 
 This tool is for educational purposes only.
 Only use it on systems you own or have permission to test.
 
 ---
 
-## 📂 Project Structure
+##   Project Structure
 
 ```
 port-scanner-tool/

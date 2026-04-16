@@ -1,4 +1,4 @@
-# 🔍 Python Port Scanner Tool
+#   Python Port Scanner Tool
 
 A multi-threaded port scanner built in Python with basic service detection.
 
